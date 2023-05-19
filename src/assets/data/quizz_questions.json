@@ -1,0 +1,56 @@
+{
+  "title":"Você era nerd ou do fundão?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual era seu lugar favorito na escola?",
+      "options":[
+        {"id": 1, "name":"Biblioteca", "alias":"A"},
+        {"id": 2, "name":"Quadra esportiva", "alias":"B"},
+        {"id": 3, "name":"Laboratório de informática", "alias":"A"},
+        {"id": 4, "name":"Cantina", "alias":"B"},
+        {"id": 5, "name":"Pátio", "alias":"A"}
+      ]
+    },
+    {
+      "id":2,
+      "question": "O que você costumava fazer no recreio?",
+      "options":[
+        {"id": 1, "name":"Lia", "alias":"A"},
+        {"id": 2, "name":"Jogar futebol", "alias":"B"},
+        {"id": 3, "name":"Paquerava as meninas", "alias":"B"},
+        {"id": 4, "name":"Conversava sobre política", "alias":"A"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Qual era a sua maior preocupação em dias de prova?",
+      "options":[
+        {"id": 1, "name":"Não conseguir as respostas de outros colegas", "alias":"B"},
+        {"id": 2, "name":"Chegar atrasado", "alias":"A"},
+        {"id": 3, "name":"Errar a resposta e não conseguir corrigir", "alias":"A"},
+        {"id": 4, "name":"Ser pego pelo professor colando", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "Qual o seu pesadelo?",
+      "options":[
+        {"id": 1, "name":"Apresentar trabalhos", "alias":"A"},
+        {"id": 2, "name":"Pedir para o professor arredondar a nota", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Você tinha um bando ou andava só?",
+      "options":[
+        {"id": 1, "name":"Eu, eu mesmo, e eu", "alias":"A"},
+        {"id": 2, "name":"Éramos conhecidos como Carreta Furacão", "alias":"B"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você era o nerdola que todos amavam!",
+    "B": "Você era muito a galera do fundão!"
+  }
+}
